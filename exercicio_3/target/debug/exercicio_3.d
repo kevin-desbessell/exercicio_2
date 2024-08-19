@@ -1,0 +1,1 @@
+/Users/kevindesbessell/Documents/Rust\ studies/Exercices\ Book/exercicio_2/exercicio_3/target/debug/exercicio_3: /Users/kevindesbessell/Documents/Rust\ studies/Exercices\ Book/exercicio_2/exercicio_3/src/main.rs
